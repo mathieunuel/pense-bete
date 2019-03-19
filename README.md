@@ -1,5 +1,5 @@
 # pense-bete
-commandes git utiles
+commandes git 
 
 push/pull
 git add
